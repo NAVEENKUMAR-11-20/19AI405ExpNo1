@@ -101,7 +101,7 @@ class HealthActuators:
 if __name__ == "__main__":
     patient_data = {
         'patient_id': 1237,
-        'name': 'Yogesh',
+        'name': 'Naveen',
         'age': 19
     }
 
