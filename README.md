@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h4>Name: Yogesh.S </h4>
+<h4>Name:NAVEEN KUMAR P</h4>
 <h4>Register Number: 212224240102</h4>
 
 
@@ -115,8 +115,8 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 ```
 ## OUTPUT :
+<img width="1774" height="887" alt="ChatGPT Image Jul 28, 2026, 08_51_14 AM" src="https://github.com/user-attachments/assets/42092bcb-a9a7-46e1-958a-0b41856574ef" />
 
-<img width="801" height="391" alt="image" src="https://github.com/user-attachments/assets/7b399ac0-a7d9-4b86-a93e-49739829b2e2" />
 
 ## RESULT:
 Thus,developed AI agent with PEAS.
